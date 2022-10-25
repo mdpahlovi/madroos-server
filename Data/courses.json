@@ -1,0 +1,86 @@
+[
+    {
+        "id": "01",
+        "name": "Web design and freelancing",
+        "img": "https://www.websitemalaysia.xyz/wp-content/uploads/2021/07/Web-Designer-Sabah.jpg",
+        "instructor": {
+            "name": "MD Pahlovi",
+            "img": "https://drive.google.com/drive/u/0/folders/1hb-Uuu_S9Pg_8OVrzb4VyTl8YNzaDGP9"
+        },
+        "price": 150,
+        "lesson": 10,
+        "students": 150,
+        "time": "10h 15m",
+        "ratting": 4.5
+    },
+    {
+        "id": "02",
+        "name": "Web development and freelancing",
+        "img": "https://qph.cf2.quoracdn.net/main-qimg-37964c58d8dc690702232f25a802f05a-pjlq",
+        "instructor": {
+            "name": "MD Pahlovi",
+            "img": "https://drive.google.com/drive/u/0/folders/1hb-Uuu_S9Pg_8OVrzb4VyTl8YNzaDGP9"
+        },
+        "price": 250,
+        "lesson": 20,
+        "students": 500,
+        "time": "30h 15m",
+        "ratting": 4.5
+    },
+    {
+        "id": "03",
+        "name": "Graphic design and freelancing",
+        "img": "https://blog.herzing.ca/hubfs/Stock%20images/Smiling%20creative%20businessman%20using%20mobile%20phone%20in%20office.jpeg",
+        "instructor": {
+            "name": "MD Pahlovi",
+            "img": "https://drive.google.com/drive/u/0/folders/1hb-Uuu_S9Pg_8OVrzb4VyTl8YNzaDGP9"
+        },
+        "price": 100,
+        "lesson": 12,
+        "students": 120,
+        "time": "15h 10m",
+        "ratting": 4
+    },
+    {
+        "id": "04",
+        "name": "3D Modeling and freelancing",
+        "img": "https://playsdev.com/wp-content/uploads/2021/08/dizajn-bez-nazvanija-1.jpg",
+        "instructor": {
+            "name": "MD Pahlovi",
+            "img": "https://drive.google.com/drive/u/0/folders/1hb-Uuu_S9Pg_8OVrzb4VyTl8YNzaDGP9"
+        },
+        "price": 100,
+        "lesson": 5,
+        "students": 150,
+        "time": "5h 15m",
+        "ratting": 5
+    },
+    {
+        "id": "05",
+        "name": "Spoken english for freelancer",
+        "img": "https://cdn5.f-cdn.com/contestentries/1157951/23489466/59e3bfcf81e26_thumb900.jpg",
+        "instructor": {
+            "name": "MD Pahlovi",
+            "img": "https://drive.google.com/drive/u/0/folders/1hb-Uuu_S9Pg_8OVrzb4VyTl8YNzaDGP9"
+        },
+        "price": 50,
+        "lesson": 50,
+        "students": 350,
+        "time": "3h 55m",
+        "ratting": 5
+    },
+    {
+        "id": "06",
+        "name": "Wordpress development and freelancing",
+        "img": "https://i.ytimg.com/vi/b6JJtMmShLk/maxresdefault.jpg",
+        "instructor": {
+            "name": "MD Pahlovi",
+            "img": "https://drive.google.com/drive/u/0/folders/1hb-Uuu_S9Pg_8OVrzb4VyTl8YNzaDGP9"
+        },
+        "price": 180,
+        "lesson": 18,
+        "students": 750,
+        "time": "15h 55m",
+        "ratting": "4.5"
+    }
+]
