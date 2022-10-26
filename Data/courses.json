@@ -11,7 +11,9 @@
         "lesson": 10,
         "students": 150,
         "time": "10h 15m",
-        "ratting": 4.5
+        "ratting": 4.5,
+        "keyword": ["WEB Desion", "UxUi Design", "DESIGN", "GRAPHIC", "freelancing"],
+        "about": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth."
     },
     {
         "id": "02",
@@ -25,7 +27,9 @@
         "lesson": 20,
         "students": 500,
         "time": "30h 15m",
-        "ratting": 4.5
+        "ratting": 4.5,
+        "keyword": ["WEB Development", "Programming", "Web Design", "DESIGN", "freelancing"],
+        "about": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth."
     },
     {
         "id": "03",
@@ -39,7 +43,9 @@
         "lesson": 12,
         "students": 120,
         "time": "15h 10m",
-        "ratting": 4
+        "ratting": 4,
+        "keyword": ["Graphic Design", "LOGO DESIGN", "Web Design", "DESIGN", "freelancing"],
+        "about": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth."
     },
     {
         "id": "04",
@@ -53,7 +59,9 @@
         "lesson": 5,
         "students": 150,
         "time": "5h 15m",
-        "ratting": 5
+        "ratting": 5,
+        "keyword": ["3D Design", "3D Modeling", "3D Animation", "DESIGN", "freelancing"],
+        "about": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth."
     },
     {
         "id": "05",
@@ -67,7 +75,9 @@
         "lesson": 50,
         "students": 350,
         "time": "3h 55m",
-        "ratting": 5
+        "ratting": 5,
+        "keyword": ["ENGLISH", "SOPOKEN", "SPOKEN ENgLIGH", "freelancing"],
+        "about": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth."
     },
     {
         "id": "06",
@@ -81,6 +91,8 @@
         "lesson": 18,
         "students": 750,
         "time": "15h 55m",
-        "ratting": "4.5"
+        "ratting": "4.5",
+        "keyword": ["WORDPRESS", "WEB Development", "Programming", "Web Design", "DESIGN", "freelancing"],
+        "about": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth."
     }
 ]
